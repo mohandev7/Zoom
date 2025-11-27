@@ -1,0 +1,17 @@
+# Backend
+Backend/node_modules/
+Backend/.env
+Backend/logs/
+Backend/uploads/
+
+# Frontend
+Frontend/node_modules/
+Frontend/.env
+Frontend/dist/
+Frontend/build/
+
+# Common
+node_modules/
+.env
+*.log
+.DS_Store
